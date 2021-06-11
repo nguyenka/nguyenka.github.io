@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Kiet Nguyen is a research scientist affiliated with Division 25 of UES Inc. and the Functional Materials Division of the Materials and Manufacturing Directorate at the Air Force Research Laboratory.  Kiet received a BS in chemistry in 1988, from North Dakota State University, and a PhD in physical chemistry in 1994, from Iowa State University; his PhD advisor was Mark Gordon.
-
 {% include base_path %}
 
 Education
