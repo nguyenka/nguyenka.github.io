@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Chemistry, North Dakota State University (1988)
+* PhD in Physical Chemistry, Iowa State University (1994)
 
-Work experience
+Current Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scientist, Air Force Research Laboratory (1997 - present) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Previous Professional Positions: 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Associate, University of Alabama at Birmingham (1996-1997)
+* Research Associate and and Quantum Chemistry Instructor University of Minnesota (1994-1996)
 
-Publications
+Kiet Nguyen is a research scientist affiliated with Division 25 of UES Inc. and the Functional Materials Division of the Materials and Manufacturing Directorate at the Air Force Research Laboratory.  Kiet received a BS in chemistry in 1988, from North Dakota State University, and a PhD in physical chemistry in 1994, from Iowa State University; his PhD advisor was Mark Gordon.
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Recent Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
