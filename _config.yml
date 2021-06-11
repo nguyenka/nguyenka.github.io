@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Kiet Nguyen"
+theme                    : jekyll-theme-minimal
 title_separator          : "-"
 name                     : &name "Kiet Nguyen"
 description              : &description "personal description"
