@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Kiet Nguyen"
+# title                    : "Kiet Nguyen"
 title_separator          : "-"
 name                     : &name "Kiet Nguyen"
 description              : &description "personal description"

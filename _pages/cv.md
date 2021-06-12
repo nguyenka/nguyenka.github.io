@@ -21,7 +21,7 @@ Current Position
 Previous Professional Positions: 
 ======
 * Research Associate, University of Alabama at Birmingham (1996-1997)
-* Research Associate and and Quantum Chemistry Instructor University of Minnesota (1994-1996)
+* Research Associate and and Quantum Chemistry Instructor, University of Minnesota (1994-1996)
 
 Publications
 ======
