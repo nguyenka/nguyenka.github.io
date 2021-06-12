@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiet Nguyen"
+#title                    : "Kiet Nguyen"
 title_separator          : "-"
 name                     : &name "Kiet Nguyen"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
 # kan avatar           : "profile.png"
   avatar           : "/images/profile.png"
   bio              : "Research scientist affiliated with UES Inc. and the Air Force Research Laboratory"
-  location         : "Dayton, Ohio 45432"
+  location         : "Dayton, Ohio"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?sortby=pubdate&hl=en&user=vH-BXOsAAAAJ&view_op=list_works"

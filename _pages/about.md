@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kiet Nguyen"
+#title: "Kiet Nguyen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
